@@ -8,5 +8,5 @@ Estou participando do **Bootcamp de Análise de Dados e BI** da Dio, onde estou 
 - **Manipulação de Dados com Python e SQL**
 - **Power BI e ferramentas de BI**
 
-### Conquistas:
-- [Certificado de Conclusão: Análise de Dados e BI - Dio](https://www.dio.me/certificados/EXEMPLOCERTIFICADO)
+### Certificados:
+- [Introdução à Análise de Dados com Power BI com a Suzano - Dio]([https://www.dio.me/certificados/EXEMPLOCERTIFICADO](https://www.dio.me/certificate/YXYMLXCY/share))
